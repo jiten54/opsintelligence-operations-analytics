@@ -1,0 +1,6 @@
+{
+  "name": "OpsIntelligence — Enterprise Operations Analytics Platform",
+  "description": "Enterprise-grade operations intelligence platform for Kroll Operations Data Analytics, covering revenue, backlog, pipeline, resource utilization, project delivery, Excel formula engine, and data quality governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
